@@ -1,7 +1,7 @@
 /**
  * возврщает текст в другой раскладке клавиатуры
  * @param text
- * @returns {*}
+ * @returns new text
  */
 function wronLag(text) {
     let new_text = ''
